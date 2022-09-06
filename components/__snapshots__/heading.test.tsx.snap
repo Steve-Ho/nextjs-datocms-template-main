@@ -1,0 +1,513 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshots 1`] = `
+<h1
+  className="headline"
+>
+  Heading
+</h1>
+`;
+
+exports[`snapshots 2`] = `
+<h2
+  className="headline"
+>
+  Heading
+</h2>
+`;
+
+exports[`snapshots 3`] = `
+<h3
+  className="headline"
+>
+  Heading
+</h3>
+`;
+
+exports[`snapshots 4`] = `
+<h4
+  className="headline"
+>
+  Heading
+</h4>
+`;
+
+exports[`snapshots 5`] = `
+<h5
+  className="headline"
+>
+  Heading
+</h5>
+`;
+
+exports[`snapshots 6`] = `
+<h6
+  className="headline"
+>
+  Heading
+</h6>
+`;
+
+exports[`snapshots 7`] = `
+<p
+  className="headline"
+>
+  Heading
+</p>
+`;
+
+exports[`snapshots 8`] = `
+<span
+  className="headline"
+>
+  Heading
+</span>
+`;
+
+exports[`snapshots 9`] = `
+<h1
+  className="heading-one"
+>
+  Heading
+</h1>
+`;
+
+exports[`snapshots 10`] = `
+<h2
+  className="heading-one"
+>
+  Heading
+</h2>
+`;
+
+exports[`snapshots 11`] = `
+<h3
+  className="heading-one"
+>
+  Heading
+</h3>
+`;
+
+exports[`snapshots 12`] = `
+<h4
+  className="heading-one"
+>
+  Heading
+</h4>
+`;
+
+exports[`snapshots 13`] = `
+<h5
+  className="heading-one"
+>
+  Heading
+</h5>
+`;
+
+exports[`snapshots 14`] = `
+<h6
+  className="heading-one"
+>
+  Heading
+</h6>
+`;
+
+exports[`snapshots 15`] = `
+<p
+  className="heading-one"
+>
+  Heading
+</p>
+`;
+
+exports[`snapshots 16`] = `
+<span
+  className="heading-one"
+>
+  Heading
+</span>
+`;
+
+exports[`snapshots 17`] = `
+<h1
+  className="heading-two"
+>
+  Heading
+</h1>
+`;
+
+exports[`snapshots 18`] = `
+<h2
+  className="heading-two"
+>
+  Heading
+</h2>
+`;
+
+exports[`snapshots 19`] = `
+<h3
+  className="heading-two"
+>
+  Heading
+</h3>
+`;
+
+exports[`snapshots 20`] = `
+<h4
+  className="heading-two"
+>
+  Heading
+</h4>
+`;
+
+exports[`snapshots 21`] = `
+<h5
+  className="heading-two"
+>
+  Heading
+</h5>
+`;
+
+exports[`snapshots 22`] = `
+<h6
+  className="heading-two"
+>
+  Heading
+</h6>
+`;
+
+exports[`snapshots 23`] = `
+<p
+  className="heading-two"
+>
+  Heading
+</p>
+`;
+
+exports[`snapshots 24`] = `
+<span
+  className="heading-two"
+>
+  Heading
+</span>
+`;
+
+exports[`snapshots 25`] = `
+<h1
+  className="heading-three"
+>
+  Heading
+</h1>
+`;
+
+exports[`snapshots 26`] = `
+<h2
+  className="heading-three"
+>
+  Heading
+</h2>
+`;
+
+exports[`snapshots 27`] = `
+<h3
+  className="heading-three"
+>
+  Heading
+</h3>
+`;
+
+exports[`snapshots 28`] = `
+<h4
+  className="heading-three"
+>
+  Heading
+</h4>
+`;
+
+exports[`snapshots 29`] = `
+<h5
+  className="heading-three"
+>
+  Heading
+</h5>
+`;
+
+exports[`snapshots 30`] = `
+<h6
+  className="heading-three"
+>
+  Heading
+</h6>
+`;
+
+exports[`snapshots 31`] = `
+<p
+  className="heading-three"
+>
+  Heading
+</p>
+`;
+
+exports[`snapshots 32`] = `
+<span
+  className="heading-three"
+>
+  Heading
+</span>
+`;
+
+exports[`snapshots 33`] = `
+<h1
+  className="heading-four"
+>
+  Heading
+</h1>
+`;
+
+exports[`snapshots 34`] = `
+<h2
+  className="heading-four"
+>
+  Heading
+</h2>
+`;
+
+exports[`snapshots 35`] = `
+<h3
+  className="heading-four"
+>
+  Heading
+</h3>
+`;
+
+exports[`snapshots 36`] = `
+<h4
+  className="heading-four"
+>
+  Heading
+</h4>
+`;
+
+exports[`snapshots 37`] = `
+<h5
+  className="heading-four"
+>
+  Heading
+</h5>
+`;
+
+exports[`snapshots 38`] = `
+<h6
+  className="heading-four"
+>
+  Heading
+</h6>
+`;
+
+exports[`snapshots 39`] = `
+<p
+  className="heading-four"
+>
+  Heading
+</p>
+`;
+
+exports[`snapshots 40`] = `
+<span
+  className="heading-four"
+>
+  Heading
+</span>
+`;
+
+exports[`snapshots 41`] = `
+<h1
+  className="heading-five"
+>
+  Heading
+</h1>
+`;
+
+exports[`snapshots 42`] = `
+<h2
+  className="heading-five"
+>
+  Heading
+</h2>
+`;
+
+exports[`snapshots 43`] = `
+<h3
+  className="heading-five"
+>
+  Heading
+</h3>
+`;
+
+exports[`snapshots 44`] = `
+<h4
+  className="heading-five"
+>
+  Heading
+</h4>
+`;
+
+exports[`snapshots 45`] = `
+<h5
+  className="heading-five"
+>
+  Heading
+</h5>
+`;
+
+exports[`snapshots 46`] = `
+<h6
+  className="heading-five"
+>
+  Heading
+</h6>
+`;
+
+exports[`snapshots 47`] = `
+<p
+  className="heading-five"
+>
+  Heading
+</p>
+`;
+
+exports[`snapshots 48`] = `
+<span
+  className="heading-five"
+>
+  Heading
+</span>
+`;
+
+exports[`snapshots 49`] = `
+<h1
+  className="heading-six"
+>
+  Heading
+</h1>
+`;
+
+exports[`snapshots 50`] = `
+<h2
+  className="heading-six"
+>
+  Heading
+</h2>
+`;
+
+exports[`snapshots 51`] = `
+<h3
+  className="heading-six"
+>
+  Heading
+</h3>
+`;
+
+exports[`snapshots 52`] = `
+<h4
+  className="heading-six"
+>
+  Heading
+</h4>
+`;
+
+exports[`snapshots 53`] = `
+<h5
+  className="heading-six"
+>
+  Heading
+</h5>
+`;
+
+exports[`snapshots 54`] = `
+<h6
+  className="heading-six"
+>
+  Heading
+</h6>
+`;
+
+exports[`snapshots 55`] = `
+<p
+  className="heading-six"
+>
+  Heading
+</p>
+`;
+
+exports[`snapshots 56`] = `
+<span
+  className="heading-six"
+>
+  Heading
+</span>
+`;
+
+exports[`snapshots 57`] = `
+<h1
+  className="subheading"
+>
+  Heading
+</h1>
+`;
+
+exports[`snapshots 58`] = `
+<h2
+  className="subheading"
+>
+  Heading
+</h2>
+`;
+
+exports[`snapshots 59`] = `
+<h3
+  className="subheading"
+>
+  Heading
+</h3>
+`;
+
+exports[`snapshots 60`] = `
+<h4
+  className="subheading"
+>
+  Heading
+</h4>
+`;
+
+exports[`snapshots 61`] = `
+<h5
+  className="subheading"
+>
+  Heading
+</h5>
+`;
+
+exports[`snapshots 62`] = `
+<h6
+  className="subheading"
+>
+  Heading
+</h6>
+`;
+
+exports[`snapshots 63`] = `
+<p
+  className="subheading"
+>
+  Heading
+</p>
+`;
+
+exports[`snapshots 64`] = `
+<span
+  className="subheading"
+>
+  Heading
+</span>
+`;

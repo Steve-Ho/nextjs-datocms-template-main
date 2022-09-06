@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  lint:
+    name: Check code quality
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14
+      - name: Install Node.js dependencies
+        run: npm ci
+      - name: Run linters
+        uses: wearerequired/lint-action@v1
+        with:
+          auto_fix: true
+          git_name: Tristan (CI)
+          git_email: tristan.strathearn@growthops.com.au
+          commit_message: "chore: fix ${linter} code style violations"
+          eslint: true
+      - name: Run tests
+        run: npm run test

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<section>
+  <div
+    className="block p-4 shadow-lg bg-gray-100"
+    id="Hello"
+  >
+    <h2
+      className="font-bold tracking-wide text-xl space-x-2"
+    >
+      <span>
+        Hello
+      </span>
+      <a
+        href="#Hello"
+      >
+        🔗
+      </a>
+    </h2>
+    <span
+      className="inline-block mt-2 font-mono text-xs bg-gray-800 text-gray-100 px-2 py-1 rounded"
+    >
+      import {Hello} from '@app/components';
+    </span>
+  </div>
+  <div
+    className="my-8 px-8 w-full"
+  >
+    <p>
+      Hello World
+    </p>
+  </div>
+</section>
+`;

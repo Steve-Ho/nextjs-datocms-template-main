@@ -1,0 +1,427 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshots — framed 1`] = `
+<article
+  className="overflow-hidden rounded h-full flex flex-col bg-white shadow-lg"
+>
+  <div
+    className="w-full"
+    style={
+      Object {
+        "maxWidth": 200,
+        "overflow": "hidden",
+        "position": "relative",
+        "width": "100%",
+      }
+    }
+  >
+    <img
+      alt=""
+      aria-hidden="true"
+      src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMTUwIj48L3N2Zz4="
+      style={
+        Object {
+          "display": "block",
+          "width": "100%",
+        }
+      }
+    />
+    <img
+      alt=""
+      aria-hidden="true"
+      role="presentation"
+      style={
+        Object {
+          "backgroundColor": undefined,
+          "left": 0,
+          "objectFit": undefined,
+          "objectPosition": undefined,
+          "opacity": 0,
+          "position": "absolute",
+          "top": 0,
+          "transition": "opacity 500ms",
+          "width": "100%",
+        }
+      }
+    />
+    <picture>
+      <img
+        alt=""
+        onLoad={[Function]}
+        src="https://picsum.photos/id/1062/500/375"
+        style={
+          Object {
+            "height": "100%",
+            "left": 0,
+            "objectFit": undefined,
+            "objectPosition": undefined,
+            "opacity": 1,
+            "position": "absolute",
+            "top": 0,
+            "transition": "opacity 500ms",
+            "width": "100%",
+          }
+        }
+      />
+    </picture>
+    <noscript>
+      <picture>
+        <img
+          alt=""
+          loading="lazy"
+          src="https://picsum.photos/id/1062/500/375"
+          style={
+            Object {
+              "height": "100%",
+              "left": 0,
+              "position": "absolute",
+              "top": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </picture>
+    </noscript>
+  </div>
+  <div
+    className="flex flex-col flex-grow px-4 pb-3"
+  >
+    <p
+      className="heading-four mt-4"
+    >
+      Lorem Ipsum Dolor
+    </p>
+    <p
+      className="text-regular mt-2"
+    >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+    </p>
+  </div>
+</article>
+`;
+
+exports[`snapshots — vanilla 1`] = `
+<article
+  className="overflow-hidden rounded h-full flex flex-col"
+>
+  <div
+    className="w-full rounded shadow-lg"
+    style={
+      Object {
+        "maxWidth": 200,
+        "overflow": "hidden",
+        "position": "relative",
+        "width": "100%",
+      }
+    }
+  >
+    <img
+      alt=""
+      aria-hidden="true"
+      src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMTUwIj48L3N2Zz4="
+      style={
+        Object {
+          "display": "block",
+          "width": "100%",
+        }
+      }
+    />
+    <img
+      alt=""
+      aria-hidden="true"
+      role="presentation"
+      style={
+        Object {
+          "backgroundColor": undefined,
+          "left": 0,
+          "objectFit": undefined,
+          "objectPosition": undefined,
+          "opacity": 0,
+          "position": "absolute",
+          "top": 0,
+          "transition": "opacity 500ms",
+          "width": "100%",
+        }
+      }
+    />
+    <picture>
+      <img
+        alt=""
+        onLoad={[Function]}
+        src="https://picsum.photos/id/1062/500/375"
+        style={
+          Object {
+            "height": "100%",
+            "left": 0,
+            "objectFit": undefined,
+            "objectPosition": undefined,
+            "opacity": 1,
+            "position": "absolute",
+            "top": 0,
+            "transition": "opacity 500ms",
+            "width": "100%",
+          }
+        }
+      />
+    </picture>
+    <noscript>
+      <picture>
+        <img
+          alt=""
+          loading="lazy"
+          src="https://picsum.photos/id/1062/500/375"
+          style={
+            Object {
+              "height": "100%",
+              "left": 0,
+              "position": "absolute",
+              "top": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </picture>
+    </noscript>
+  </div>
+  <div
+    className="flex flex-col flex-grow"
+  >
+    <p
+      className="heading-four mt-4"
+    >
+      Lorem Ipsum Dolor
+    </p>
+    <p
+      className="text-regular mt-2"
+    >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+    </p>
+  </div>
+</article>
+`;
+
+exports[`snapshots — with meta content 1`] = `
+<article
+  className="overflow-hidden rounded h-full flex flex-col"
+>
+  <div
+    className="w-full rounded shadow-lg"
+    style={
+      Object {
+        "maxWidth": 200,
+        "overflow": "hidden",
+        "position": "relative",
+        "width": "100%",
+      }
+    }
+  >
+    <img
+      alt=""
+      aria-hidden="true"
+      src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMTUwIj48L3N2Zz4="
+      style={
+        Object {
+          "display": "block",
+          "width": "100%",
+        }
+      }
+    />
+    <img
+      alt=""
+      aria-hidden="true"
+      role="presentation"
+      style={
+        Object {
+          "backgroundColor": undefined,
+          "left": 0,
+          "objectFit": undefined,
+          "objectPosition": undefined,
+          "opacity": 0,
+          "position": "absolute",
+          "top": 0,
+          "transition": "opacity 500ms",
+          "width": "100%",
+        }
+      }
+    />
+    <picture>
+      <img
+        alt=""
+        onLoad={[Function]}
+        src="https://picsum.photos/id/1062/500/375"
+        style={
+          Object {
+            "height": "100%",
+            "left": 0,
+            "objectFit": undefined,
+            "objectPosition": undefined,
+            "opacity": 1,
+            "position": "absolute",
+            "top": 0,
+            "transition": "opacity 500ms",
+            "width": "100%",
+          }
+        }
+      />
+    </picture>
+    <noscript>
+      <picture>
+        <img
+          alt=""
+          loading="lazy"
+          src="https://picsum.photos/id/1062/500/375"
+          style={
+            Object {
+              "height": "100%",
+              "left": 0,
+              "position": "absolute",
+              "top": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </picture>
+    </noscript>
+  </div>
+  <div
+    className="flex flex-col flex-grow"
+  >
+    <p
+      className="heading-four mt-4"
+    >
+      Lorem Ipsum Dolor
+    </p>
+    <p
+      className="text-regular mt-2"
+    >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+    </p>
+    <div
+      className="pt-6"
+    >
+      <a
+        className="inline-flex items-center rounded !leading-none border border-true-gray-300 text-true-gray-700 px-6 py-4 heading-six space-x-3"
+        href="#"
+        rel="noreferrer"
+      >
+        <span>
+          Read more
+        </span>
+      </a>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`snapshots — with meta content and auto height 1`] = `
+<article
+  className="overflow-hidden rounded h-full flex flex-col"
+>
+  <div
+    className="w-full rounded shadow-lg"
+    style={
+      Object {
+        "maxWidth": 200,
+        "overflow": "hidden",
+        "position": "relative",
+        "width": "100%",
+      }
+    }
+  >
+    <img
+      alt=""
+      aria-hidden="true"
+      src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMTUwIj48L3N2Zz4="
+      style={
+        Object {
+          "display": "block",
+          "width": "100%",
+        }
+      }
+    />
+    <img
+      alt=""
+      aria-hidden="true"
+      role="presentation"
+      style={
+        Object {
+          "backgroundColor": undefined,
+          "left": 0,
+          "objectFit": undefined,
+          "objectPosition": undefined,
+          "opacity": 0,
+          "position": "absolute",
+          "top": 0,
+          "transition": "opacity 500ms",
+          "width": "100%",
+        }
+      }
+    />
+    <picture>
+      <img
+        alt=""
+        onLoad={[Function]}
+        src="https://picsum.photos/id/1062/500/375"
+        style={
+          Object {
+            "height": "100%",
+            "left": 0,
+            "objectFit": undefined,
+            "objectPosition": undefined,
+            "opacity": 1,
+            "position": "absolute",
+            "top": 0,
+            "transition": "opacity 500ms",
+            "width": "100%",
+          }
+        }
+      />
+    </picture>
+    <noscript>
+      <picture>
+        <img
+          alt=""
+          loading="lazy"
+          src="https://picsum.photos/id/1062/500/375"
+          style={
+            Object {
+              "height": "100%",
+              "left": 0,
+              "position": "absolute",
+              "top": 0,
+              "width": "100%",
+            }
+          }
+        />
+      </picture>
+    </noscript>
+  </div>
+  <div
+    className="flex flex-col flex-grow"
+  >
+    <p
+      className="heading-four mt-4"
+    >
+      Lorem Ipsum Dolor
+    </p>
+    <p
+      className="text-regular mt-2"
+    >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+    </p>
+    <div
+      className="pt-6 mt-auto"
+    >
+      <a
+        className="inline-flex items-center rounded !leading-none border border-true-gray-300 text-true-gray-700 px-6 py-4 heading-six space-x-3"
+        href="#"
+        rel="noreferrer"
+      >
+        <span>
+          Read more
+        </span>
+      </a>
+    </div>
+  </div>
+</article>
+`;

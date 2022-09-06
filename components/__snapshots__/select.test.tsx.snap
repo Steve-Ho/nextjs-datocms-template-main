@@ -1,0 +1,383 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot — disabled 1`] = `
+<div>
+  <label
+    htmlFor="1"
+  >
+    <span
+      className="block text-small font-semibold "
+    >
+      Character
+    </span>
+    <div
+      className="relative"
+    >
+      <svg
+        aria-hidden="true"
+        className="absolute top-0 right-0 mt-[0.9rem] mr-2 w-5 text-true-gray-500 select-none pointer-events-none"
+        fill="currentColor"
+        viewBox="0 0 20 20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          clipRule="evenodd"
+          d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+          fillRule="evenodd"
+        />
+      </svg>
+      <select
+        className="mt-1 border rounded px-2 py-1 w-full text-regular border-true-gray-300 bg-gray-200 cursor-not-allowed appearance-none"
+        defaultValue=""
+        disabled={true}
+        id="1"
+      >
+        <option
+          disabled={true}
+          value=""
+        >
+          Select a character...
+        </option>
+        <option
+          value="1"
+        >
+          Daenerys Targaryen
+        </option>
+        <option
+          value="2"
+        >
+          Jon Snow
+        </option>
+        <option
+          value="3"
+        >
+          Arya Stark
+        </option>
+        <option
+          value="4"
+        >
+          Brandon Stark
+        </option>
+        <option
+          value="5"
+        >
+          Tyrion Lannister
+        </option>
+      </select>
+    </div>
+  </label>
+</div>
+`;
+
+exports[`snapshot — error 1`] = `
+<div>
+  <label
+    htmlFor="1"
+  >
+    <span
+      className="block text-small font-semibold text-red-500"
+    >
+      Character *
+    </span>
+    <div
+      className="relative"
+    >
+      <svg
+        aria-hidden="true"
+        className="absolute top-0 right-0 mt-[0.9rem] mr-2 w-5 text-true-gray-500 select-none pointer-events-none"
+        fill="currentColor"
+        viewBox="0 0 20 20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          clipRule="evenodd"
+          d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+          fillRule="evenodd"
+        />
+      </svg>
+      <select
+        className="mt-1 border rounded px-2 py-1 w-full text-regular border-red-300 bg-white appearance-none"
+        defaultValue=""
+        id="1"
+        required={true}
+      >
+        <option
+          disabled={true}
+          value=""
+        >
+          Select a character...
+        </option>
+        <option
+          value="1"
+        >
+          Daenerys Targaryen
+        </option>
+        <option
+          value="2"
+        >
+          Jon Snow
+        </option>
+        <option
+          value="3"
+        >
+          Arya Stark
+        </option>
+        <option
+          value="4"
+        >
+          Brandon Stark
+        </option>
+        <option
+          value="5"
+        >
+          Tyrion Lannister
+        </option>
+      </select>
+    </div>
+  </label>
+  <div
+    className="flex mt-1 items-center space-x-1 text-red-500"
+  >
+    <svg
+      aria-hidden="true"
+      className="w-4"
+      fill="currentColor"
+      viewBox="0 0 20 20"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        clipRule="evenodd"
+        d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7 4a1 1 0 11-2 0 1 1 0 012 0zm-1-9a1 1 0 00-1 1v4a1 1 0 102 0V6a1 1 0 00-1-1z"
+        fillRule="evenodd"
+      />
+    </svg>
+    <span
+      className="block text-xs"
+    >
+      Please refer to season 8
+    </span>
+  </div>
+</div>
+`;
+
+exports[`snapshot — helptext 1`] = `
+<div>
+  <label
+    htmlFor="1"
+  >
+    <span
+      className="block text-small font-semibold "
+    >
+      Character *
+    </span>
+    <div
+      className="relative"
+    >
+      <svg
+        aria-hidden="true"
+        className="absolute top-0 right-0 mt-[0.9rem] mr-2 w-5 text-true-gray-500 select-none pointer-events-none"
+        fill="currentColor"
+        viewBox="0 0 20 20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          clipRule="evenodd"
+          d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+          fillRule="evenodd"
+        />
+      </svg>
+      <select
+        className="mt-1 border rounded px-2 py-1 w-full text-regular border-true-gray-300 bg-white appearance-none"
+        defaultValue=""
+        id="1"
+        required={true}
+      >
+        <option
+          disabled={true}
+          value=""
+        >
+          Select a character...
+        </option>
+        <option
+          value="1"
+        >
+          Daenerys Targaryen
+        </option>
+        <option
+          value="2"
+        >
+          Jon Snow
+        </option>
+        <option
+          value="3"
+        >
+          Arya Stark
+        </option>
+        <option
+          value="4"
+        >
+          Brandon Stark
+        </option>
+        <option
+          value="5"
+        >
+          Tyrion Lannister
+        </option>
+      </select>
+    </div>
+  </label>
+  <div
+    className="flex mt-1 items-center space-x-1 text-true-gray-500"
+  >
+    <svg
+      aria-hidden="true"
+      className="w-4"
+      fill="currentColor"
+      viewBox="0 0 20 20"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        clipRule="evenodd"
+        d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z"
+        fillRule="evenodd"
+      />
+    </svg>
+    <span
+      className="block text-xs"
+    >
+      Who will become king or queen?
+    </span>
+  </div>
+</div>
+`;
+
+exports[`snapshot — vanilla + required 1`] = `
+<div>
+  <label
+    htmlFor="1"
+  >
+    <span
+      className="block text-small font-semibold "
+    >
+      Character *
+    </span>
+    <div
+      className="relative"
+    >
+      <svg
+        aria-hidden="true"
+        className="absolute top-0 right-0 mt-[0.9rem] mr-2 w-5 text-true-gray-500 select-none pointer-events-none"
+        fill="currentColor"
+        viewBox="0 0 20 20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          clipRule="evenodd"
+          d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+          fillRule="evenodd"
+        />
+      </svg>
+      <select
+        className="mt-1 border rounded px-2 py-1 w-full text-regular border-true-gray-300 bg-white appearance-none"
+        defaultValue=""
+        id="1"
+        required={true}
+      >
+        <option
+          disabled={true}
+          value=""
+        >
+          Select a character...
+        </option>
+        <option
+          value="1"
+        >
+          Daenerys Targaryen
+        </option>
+        <option
+          value="2"
+        >
+          Jon Snow
+        </option>
+        <option
+          value="3"
+        >
+          Arya Stark
+        </option>
+        <option
+          value="4"
+        >
+          Brandon Stark
+        </option>
+        <option
+          value="5"
+        >
+          Tyrion Lannister
+        </option>
+      </select>
+    </div>
+  </label>
+</div>
+`;
+
+exports[`snapshot — vanilla 1`] = `
+<div>
+  <label
+    htmlFor="1"
+  >
+    <span
+      className="block text-small font-semibold "
+    >
+      Character
+    </span>
+    <div
+      className="relative"
+    >
+      <svg
+        aria-hidden="true"
+        className="absolute top-0 right-0 mt-[0.9rem] mr-2 w-5 text-true-gray-500 select-none pointer-events-none"
+        fill="currentColor"
+        viewBox="0 0 20 20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          clipRule="evenodd"
+          d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+          fillRule="evenodd"
+        />
+      </svg>
+      <select
+        className="mt-1 border rounded px-2 py-1 w-full text-regular border-true-gray-300 bg-white appearance-none"
+        defaultValue=""
+        id="1"
+      >
+        <option
+          value="1"
+        >
+          Daenerys Targaryen
+        </option>
+        <option
+          value="2"
+        >
+          Jon Snow
+        </option>
+        <option
+          value="3"
+        >
+          Arya Stark
+        </option>
+        <option
+          value="4"
+        >
+          Brandon Stark
+        </option>
+        <option
+          value="5"
+        >
+          Tyrion Lannister
+        </option>
+      </select>
+    </div>
+  </label>
+</div>
+`;

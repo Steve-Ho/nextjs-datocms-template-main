@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshots 1`] = `
+<p
+  className="text-lead"
+>
+  Hello World
+</p>
+`;
+
+exports[`snapshots 2`] = `
+<span
+  className="text-lead"
+>
+  Hello World
+</span>
+`;
+
+exports[`snapshots 3`] = `
+<p
+  className="text-regular"
+>
+  Hello World
+</p>
+`;
+
+exports[`snapshots 4`] = `
+<span
+  className="text-regular"
+>
+  Hello World
+</span>
+`;
+
+exports[`snapshots 5`] = `
+<p
+  className="text-small"
+>
+  Hello World
+</p>
+`;
+
+exports[`snapshots 6`] = `
+<span
+  className="text-small"
+>
+  Hello World
+</span>
+`;
