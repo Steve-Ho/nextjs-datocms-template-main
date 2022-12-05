@@ -45,7 +45,7 @@
 		"@types/react-gtm-module": "^2.0.1",
 		"@types/react-test-renderer": "^18.0.0",
 		"@types/testing-library__jest-dom": "^5.14.5",
-		"@typescript-eslint/eslint-plugin": "^5.31.0",
+		"@typescript-eslint/eslint-plugin": "^5.45.0",
 		"@typescript-eslint/parser": "^5.31.0",
 		"autoprefixer": "^10.4.8",
 		"eslint": "^8.20.0",
